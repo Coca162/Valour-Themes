@@ -1,0 +1,59 @@
+/*
+Discord Valour Theme
+This theme replicates the look of discord for Valour
+*/
+
+
+/*Age Verification*/
+input.form-control {
+  background-color: #303339;
+}
+
+/*Loading Screen*/
+html body {
+  background-color: #2F3136;
+}
+
+/*Container for member list*/
+div.sidebar-user.only {
+  background-color: #2F3136;
+}
+
+/*Person user status*/
+div.user-info {
+  background-color: #303234;
+}
+
+/*Category container*/
+div.category {
+  background-color: #303234;
+}
+
+/*Adding channel or category box*/
+div.context-menu {
+  background-color: #303234;
+  border-color: #303234;
+}
+
+.context-menu-item:hover {
+  background-color: #464953;
+}
+
+/*Message Box*/
+textarea.textbox {
+  background-color: #40444B;
+}
+
+/*THESE MAY ALSO BE USED FOR OTHER THINGS THE COMMENTS ARE THE PRIMARY USE*/
+html.full-screen:root {
+  /*Sidebar*/
+  --main-1: #2F3136;
+  /*Secondary Sidebar*/
+  --main-2: #2F3136;
+  /*Top Bar*/
+  --main-3: #36393F;
+  /*Channel room*/
+  --main-4: #36393F;
+  /*Misc borders or something*/
+  --main-5: #32353B;
+}
