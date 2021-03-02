@@ -1,0 +1,62 @@
+/*
+Grey Valour Theme
+A desatuated version of the normal Valour theme.
+*/
+
+/*Age Verification*/
+div.popup-box {
+  background: #242424;
+}
+
+input.form-control {
+  background-color: #0d0d0d;
+}
+
+/*Loading Screen*/
+html body {
+  background-color: #0d0d0d;
+}
+
+/*Container for member list*/
+div.sidebar-user.only {
+  background-color: #1f1f1f;
+}
+
+/*Person user status*/
+div.user-info {
+  background-color: #1f1f1f;
+}
+
+/*Category container*/
+div.category {
+  background-color: #303030;
+}
+
+/*Adding channel or category box*/
+div.context-menu {
+  background-color: #0a0a0a;
+  border-color: #242424;
+}
+
+.context-menu-item:hover {
+  background-color: #242424;
+}
+
+/*Message Box*/
+textarea.textbox {
+  background-color: #292929;
+}
+
+/*THESE MAY ALSO BE USED FOR OTHER THINGS*/
+html.full-screen:root {
+  /*Sidebar*/
+  --main-1: #0d0d0d;
+  /*Secondary Sidebar*/
+  --main-2: #141414;
+  /*Top Bar*/
+  --main-3: #1c1c1c;
+  /*Channel room*/
+  --main-4: #242424;
+  /*Misc borders or something*/
+  --main-5: #2e2e2e;
+}
