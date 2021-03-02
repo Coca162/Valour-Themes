@@ -1,0 +1,64 @@
+/*
+Template (Default) Theme
+This is to be used to create templates. This should contain every value you might need to make your own theme.
+*/
+
+/*Age Verification*/
+div.popup-box {
+  background: #192630;
+}
+
+input.form-control {
+  background-color: #040D14;
+}
+
+/*Loading Screen*/
+html body {
+  background-color: #040D14;
+}
+
+/*Container for member list*/
+div.sidebar-user.only {
+  background-color: #161E25;
+}
+
+/*Person user status*/
+div.user-info {
+  background-color: #161E25;
+}
+
+/*Category container*/
+div.category {
+  background-color: #293138;
+}
+
+/*Adding channel or category box*/
+div.context-menu {
+  background-color: #030B11;
+  border-color: #192630;
+}
+
+.context-menu-item:hover {
+  background-color: #192630;
+}
+
+/*Message Box*/
+textarea.textbox {
+  background-color: #232A31;
+}
+
+/*THESE MAY ALSO BE USED FOR OTHER THINGS*/
+html.full-screen:root {
+  /*Sidebar*/
+  --main-1: #040d14;
+  /*Secondary Sidebar*/
+  --main-2: #0b151d;
+  /*Top Bar*/
+  --main-3: #121e27;
+  /*Channel room*/
+  --main-4: #192630;
+  /*Misc borders or something*/
+  --main-5: #212f3a;
+  /*Text Colour*/
+  --font-color: #ffffff;
+}
