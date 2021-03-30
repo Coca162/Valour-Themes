@@ -3,6 +3,10 @@
 
 Custom css themes made for Valour
 
+## Contributing
+
+Anyone can contribute any theme they want using the [template](https://github.com/Coca16/Valour-Themes/blob/main/template.css). The colours should be the default ones that Valour already uses and all you need to do is replace them with any you want!
+
 ## Using
 
 It is reccomended to use [Style Bot](https://stylebot.dev/) which supports Firefox and Chrome. This does also works if you have valour like an app.
