@@ -10,6 +10,7 @@ It is reccomended to use [Style Bot](https://stylebot.dev/) which supports Firef
 ### StyleBot
 
 Go to the Code section
+
 ![Code Icon](https://user-images.githubusercontent.com/62479942/113042117-b30a9500-9192-11eb-966a-13dd6f6fa4ba.png)
 
 And enter in these for the theme you want:
