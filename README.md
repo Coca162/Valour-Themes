@@ -14,7 +14,4 @@ Go to the Code section
 
 And enter in these:
 
-- Dark
-- ```css
-@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/dark.css)
-```
+- Dark `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/dark.css)`
