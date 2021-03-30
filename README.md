@@ -12,6 +12,8 @@ It is reccomended to use [Style Bot](https://stylebot.dev/) which supports Firef
 Go to the Code section
 ![Code Icon](https://user-images.githubusercontent.com/62479942/113042117-b30a9500-9192-11eb-966a-13dd6f6fa4ba.png)
 
-And enter in these:
+And enter in these for the theme you want:
 
-- Dark `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/dark.css)`
+- Dark: `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/dark.css)`
+- Discord: `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/discord.css)`
+- Grey `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/grey.css)`
