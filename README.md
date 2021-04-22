@@ -19,9 +19,9 @@ Go to the Code section
 
 And enter in these for the theme you want:
 
-- Dark: `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/dark.css)`
+- Dark: `@import url(https://raw.githubusercontent.com/Coca162/Valour-Themes/main/dark.css)`
 ![Dark](https://user-images.githubusercontent.com/62479942/113042970-b94d4100-9193-11eb-8901-714fc7a65e79.png)
-- Discord: `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/discord.css)`
+- Discord: `@import url(https://raw.githubusercontent.com/Coca162/Valour-Themes/main/discord.css)`
 ![Discord](https://user-images.githubusercontent.com/62479942/113043038-cff39800-9193-11eb-9166-a8188959c578.png)
-- Grey: `@import url(https://raw.githubusercontent.com/Coca16/Valour-Themes/main/grey.css)`
+- Grey: `@import url(https://raw.githubusercontent.com/Coca162/Valour-Themes/main/grey.css)`
 ![Grey](https://user-images.githubusercontent.com/62479942/113043121-e568c200-9193-11eb-89b5-83e1b0d10441.png)
